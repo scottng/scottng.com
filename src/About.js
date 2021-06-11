@@ -24,11 +24,11 @@ function About(props) {
           </div>
         </a>
         
-        <a href="#" target="_blank" rel="noreferrer noopener">
+        {/* <a href="#" target="_blank" rel="noreferrer noopener">
           <div class="bg-gray-100 hover:bg-gray-200 rounded-full w-20 text-center py-2">
               <AiFillFilePdf class="mx-auto text-3xl " /> 
           </div>
-        </a>
+        </a> */}
       </div>
     </div>
   )
