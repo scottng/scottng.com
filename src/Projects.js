@@ -56,7 +56,7 @@ function Projects(props) {
           </div>
         </a>
 
-        <a href="https://github.com/scottng/hourly-shiba-telegram-bot" target="_blank" rel="noreferrer noopener">
+        <a href="https://github.com/scottng/scottng.com" target="_blank" rel="noreferrer noopener">
           <div class="max-w-sm rounded overflow-hidden shadow-lg hover:bg-gray-100">
             <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">This Website</div>
