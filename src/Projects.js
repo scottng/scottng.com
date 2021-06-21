@@ -5,7 +5,7 @@ function Projects(props) {
   return (
     <div class="mx-auto px-10 space-y-3 max-w-4xl text-left">
       <div class="text-2xl font-medium">
-        Here are some of my projects.
+        Projects
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 pb-20">
