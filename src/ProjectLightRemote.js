@@ -13,7 +13,7 @@ function ProjectLightRemote(props) {
       </a>
 
       <div class="text-4xl font-medium">
-        <span class="text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-700">LightRemote</span> 
+        LightRemote
       </div>
       <div class="text-lg">
         Control Philips Hue lights from your web browser. <br />

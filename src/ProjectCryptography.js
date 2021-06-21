@@ -11,7 +11,7 @@ function ProjectCryptography(props) {
       </a>
 
       <div class="text-4xl font-medium">
-        <span class="text-transparent bg-clip-text bg-gradient-to-br from-green-400 to-blue-700">Cryptography with Go</span> 
+        Cryptography with Go
       </div>
       <div class="text-lg">
         Examples of symmetric and asymmetric encryption using Go's crypto package.<br />
