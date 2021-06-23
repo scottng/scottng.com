@@ -7,7 +7,7 @@ function About(props) {
       <div class="text-4xl font-medium">
         Scott Ng
       </div>
-      <div class="text-2xl">
+      <div class="text-1xl">
         He/him. Computer Science @ USC.
       </div>
 
