@@ -7,6 +7,9 @@ function About(props) {
       <div class="text-4xl font-medium">
         Scott Ng
       </div>
+      <div class="text-2xl">
+        He/him. Computer Science @ USC.
+      </div>
 
       <div class="grid grid-cols-3 w-80">
         <a href="https://github.com/scottng" target="_blank" rel="noreferrer noopener">
