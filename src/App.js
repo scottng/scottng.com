@@ -13,7 +13,23 @@ function App() {
   return (
     <div className="App" class="font-sans text-gray-700">
 
-      <Router>
+      <div class="mx-auto pt-10 p-10 space-y-3 max-w-4xl text-left">
+        <div class="text-4xl font-medium">
+          scott ng
+        </div>
+        <div>
+          software developer
+        </div>
+        <div>
+          email: scottng at scottng dot com
+        </div>
+        <div>
+          <img src="images/IMG_4819.GIF"></img>
+        </div>
+          
+      </div>
+
+      {/* <Router>
         <div>
           <Switch>
             <Route exact path="/">
@@ -32,7 +48,7 @@ function App() {
           </Switch> 
         </div>
         
-      </Router>
+      </Router> */}
       
 
     </div>
