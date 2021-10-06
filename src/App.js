@@ -24,7 +24,7 @@ function App() {
           email: scottng at scottng dot com
         </div>
         <div>
-          <img src="public/images/IMG_4819.GIF"></img>
+          <img src="/images/IMG_4819.GIF" alt="cat birthday" />
         </div>
           
       </div>
