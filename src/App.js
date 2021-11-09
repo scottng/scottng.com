@@ -18,9 +18,6 @@ function App() {
           scott ng
         </div>
         <div>
-          software developer
-        </div>
-        <div>
           email: scottng at scottng dot com
         </div>
         <div>
